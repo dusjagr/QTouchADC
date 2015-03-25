@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QTouchADC	KEYWORD1
+init	KEYWORD2 
+sense	KEYWORD2
+touch	KEYWORD2
+
+#######################################
+# Methods and Functions (KEYWORD2)
+
+init	KEYWORD2 
+sense	KEYWORD2
+touch	KEYWORD2
+
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
