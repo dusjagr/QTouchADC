@@ -26,7 +26,7 @@ uint16_t QTouchADCClass::sense(byte adcPin, byte refPin, uint8_t samples)
     int muxAdc = 0;
     int muxRef = 0;
     int measurement1, measurement2;
-    int QTouchDelay = 10;
+    int QTouchDelay = 50;
 
 
    muxAdc = adcPin;
